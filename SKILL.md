@@ -4,7 +4,7 @@ description: Use spatial distortion to visualize power dynamics, institutional o
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5311
+  version: 1.0.5312
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - structure
